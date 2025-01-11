@@ -67,9 +67,3 @@ The system consists of:
 - **Advanced Sensors**: Integrate digital light sensors for higher accuracy.
 - **IoT Connectivity**: Enable remote monitoring and control using IoT platforms.
 - **Enhanced Durability**: Use solid-state relays to improve system lifespan.
-
-## References
-
-1. [PIC18F4550 Datasheet](https://www.microchip.com/en-us/product/PIC18F4550)
-2. [Light-Activated Switch Circuit](https://www.circuitstoday.com/light-activated-switch-circuit)
-3. [Optimizing Energy Efficiency with Microcontroller-Based Light Control Systems](https://www.elprocus.com/light-activated-switch-with-ldr)
