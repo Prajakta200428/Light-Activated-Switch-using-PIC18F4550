@@ -12,4 +12,4 @@ Passive Components: Resistors (10kΩ, others), Capacitors (22pF)
 
 Crystal Oscillator: 20MHz for the PIC18F4550
 
-Other Components: Diode (1N4007), lamp (12V)
+Other Components: Diode (1N4007), lamp (12V), Zero pcb board, wires 
