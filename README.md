@@ -35,7 +35,7 @@ The system consists of:
 
 ## Software Details
 
-- **Programming Tools**: MPLAB X IDE, XC8 Compiler
+- **Programming Tools**: MPLAB X IDE, XC8 Compiler, Proteus 8 professional
 - **Libraries Used**:
   - ADC module of PIC18F4550
   - Relay control logic
