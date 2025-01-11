@@ -1,0 +1,15 @@
+Microcontroller: PIC18F4550
+
+Light Sensor: Light-Dependent Resistor (LDR)
+
+Transistor: BC547 for signal amplification
+
+Relay: Single Pole Double Throw (SPDT), 12V
+
+Power Supply: 5V DC for the microcontroller and 12V for the relay
+
+Passive Components: Resistors (10kΩ, others), Capacitors (22pF)
+
+Crystal Oscillator: 20MHz for the PIC18F4550
+
+Other Components: Diode (1N4007), lamp (12V)

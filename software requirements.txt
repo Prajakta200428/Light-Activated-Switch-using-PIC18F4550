@@ -1,0 +1,10 @@
+Development Environment: MPLAB X IDE
+
+Compiler: XC8 Compiler
+
+Simulation Software: Proteus 8 Professional
+
+Programming Language: Embedded C
+
+Operating System: Windows/Linux/MacOS
+
