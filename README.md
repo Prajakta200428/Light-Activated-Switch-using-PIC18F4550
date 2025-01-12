@@ -11,10 +11,10 @@ This project automates the control of an electrical appliance, such as a light b
 ## Components Used
 
 - **Microcontroller**: PIC18F4550
-- **Sensor**: Light Dependent Resistor (LDR)
+- **Light Dependent Resistor (LDR)**
 - **Transistor**: BC547 for signal amplification
 - **Relay**: SPDT for appliance control
-- **Power Supply**: 5V DC
+- **Power Supply**: 9V DC
 
 ## Working Principle
 
