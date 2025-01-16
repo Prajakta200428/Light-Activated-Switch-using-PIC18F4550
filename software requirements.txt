@@ -6,5 +6,4 @@ Simulation Software: Proteus 8 Professional
 
 Programming Language: Embedded C
 
-Operating System: Windows/Linux/MacOS
-
+Loading tool: PIC loader
